@@ -1,4 +1,4 @@
-name: Repsitory dispatch workflow from blog
+name: Repsitory dispatch workflow from Japanese blog
 on:
   push:
     branches:
